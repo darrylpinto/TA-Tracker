@@ -1,9 +1,9 @@
 # TA_tracker
 
-This is a program that helps TA decide which confused student to help when the TA is ready to help.
-There are two TAs, Oliver and Colleen and there are students who are approaching the students to solve their doubts
-Colleen solves student doubts on priority basis whereas Oliver does it in First-Come-First_Serve basis
-Each line of this code has a O(log n) complexity.
+This is a program that helps TA decide which confused student to help when the TA is ready to help.<br />
+There are two TAs, Oliver and Colleen and there are students who are approaching the students to solve their doubts <br />
+Colleen solves student doubts on priority basis whereas Oliver does it in First-Come-First-Serve basis. <br />
+Each line of this code has a O(log n) complexity.<br />
 <br />
 Input:
 A line of the input may contain either of the following: <br />
